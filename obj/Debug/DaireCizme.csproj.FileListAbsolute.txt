@@ -1,0 +1,7 @@
+C:\repo\DaireCizme\bin\Debug\DaireCizme.exe.config
+C:\repo\DaireCizme\bin\Debug\DaireCizme.exe
+C:\repo\DaireCizme\bin\Debug\DaireCizme.pdb
+C:\repo\DaireCizme\obj\Debug\DaireCizme.csproj.AssemblyReference.cache
+C:\repo\DaireCizme\obj\Debug\DaireCizme.csproj.CoreCompileInputs.cache
+C:\repo\DaireCizme\obj\Debug\DaireCizme.exe
+C:\repo\DaireCizme\obj\Debug\DaireCizme.pdb
